@@ -26,8 +26,10 @@
     "extract-text-webpack-plugin": "^0.3.1"
   },
   "dependencies": {
+    "bases": "^0.2.1",
     "recast": "^0.7.2",
-    "loader-utils": "~0.2.3"
+    "loader-utils": "~0.2.3",
+    "clean-css": "~3.0.10"
   },
   "devDependencies": {
     "jshint": "^2.5.5",
