@@ -26,8 +26,6 @@
     "extract-text-webpack-plugin": "^0.3.8"
   },
   "dependencies": {
-    "autoprefixer-core": "^5.1.9",
-    "clean-css": "^3.1.9",
     "recast": "^0.7.2",
     "loader-utils": "~0.2.3"
   },
